@@ -1,0 +1,9 @@
+/* Write your CSS code here */
+.user-info-container {
+  text-align: center;
+}
+.profile-img{
+  height: 100px;
+  width: 100px;
+  margin-top: 40px;
+}

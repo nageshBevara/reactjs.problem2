@@ -1,0 +1,8 @@
+/* Write your CSS code here */
+.blog-item {
+  list-style: none;
+  width: 100%;
+}
+.blog-details-container {
+  width: 76vw;
+}
